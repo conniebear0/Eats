@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- System splash (Android 12+ SplashScreen API, backported by core-splashscreen) -->
+    <style name="Theme.Eats.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/splash_background</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splash_icon</item>
+        <item name="postSplashScreenTheme">@style/Theme.Eats</item>
+    </style>
+
+    <!-- Theme the app runs in after the system splash. Compose draws everything on top. -->
+    <style name="Theme.Eats" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/splash_background</item>
+    </style>
+</resources>
