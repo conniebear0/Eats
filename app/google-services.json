@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "903330770863",
+    "project_id": "eats-app-ce6c0",
+    "storage_bucket": "eats-app-ce6c0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903330770863:android:a83d303ac28c7415cc095a",
+        "android_client_info": {
+          "package_name": "com.eats.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903330770863-hh01n5hai45fi0u6q76fn1vedu3gvlom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl46bQPB0WHB0tyCrrDeSWsrzTC8F4k0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903330770863-hh01n5hai45fi0u6q76fn1vedu3gvlom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903330770863:android:5ee2e4a0ebe53d4bcc095a",
+        "android_client_info": {
+          "package_name": "com.example.group3project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903330770863-hh01n5hai45fi0u6q76fn1vedu3gvlom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl46bQPB0WHB0tyCrrDeSWsrzTC8F4k0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903330770863-hh01n5hai45fi0u6q76fn1vedu3gvlom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
